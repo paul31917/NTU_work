@@ -1,0 +1,3795 @@
+id: 759
+company: MeRiDa
+type: iNeed_FunCity
+situation: bad
+
+id: 752
+company: Giant
+type: Normal_Youbike
+situation: bad
+
+id: 303
+company: Giant
+type: iNeed_FunCity
+situation: bad
+
+id: 009
+company: 911
+type: iNeed_FunCity
+situation: bad
+
+id: 304
+company: MeRiDa
+type: iNeed_FunCity
+situation: bad
+
+id: 105
+company: 911
+type: Normal_Youbike
+situation: bad
+
+id: 556
+company: 911
+type: Normal_Youbike
+situation: bad
+
+id: 204
+company: MeRiDa
+type: iNeed_FunCity
+situation: bad
+
+id: 291
+company: 911
+type: Normal_Youbike
+situation: bad
+
+id: 361
+company: MeRiDa
+type: iNeed_FunCity
+situation: bad
+
+id: 027
+company: Giant
+type: Normal_Youbike
+situation: bad
+
+id: 755
+company: 911
+type: iNeed_FunCity
+situation: bad
+
+id: 753
+company: Giant
+type: Normal_Youbike
+situation: bad
+
+id: 175
+company: MeRiDa
+type: iNeed_FunCity
+situation: bad
+
+id: 288
+company: Giant
+type: Normal_Youbike
+situation: bad
+
+id: 195
+company: 911
+type: Normal_Youbike
+situation: bad
+
+id: 328
+company: MeRiDa
+type: iNeed_FunCity
+situation: bad
+
+id: 188
+company: 911
+type: Normal_Youbike
+situation: bad
+
+id: 613
+company: 911
+type: Normal_Youbike
+situation: bad
+
+id: 044
+company: MeRiDa
+type: iNeed_FunCity
+situation: bad
+
+id: 622
+company: Giant
+type: Normal_Youbike
+situation: bad
+
+id: 626
+company: 911
+type: Normal_Youbike
+situation: bad
+
+id: 499
+company: MeRiDa
+type: Normal_Youbike
+situation: bad
+
+id: 421
+company: MeRiDa
+type: iNeed_FunCity
+situation: bad
+
+id: 074
+company: 911
+type: Normal_Youbike
+situation: bad
+
+id: 404
+company: 911
+type: iNeed_FunCity
+situation: bad
+
+id: 201
+company: MeRiDa
+type: Normal_Youbike
+situation: bad
+
+id: 035
+company: Giant
+type: Normal_Youbike
+situation: bad
+
+id: 390
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 203
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 423
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 218
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 688
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 487
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 111
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 657
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 075
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 641
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 621
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 490
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 758
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 550
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 281
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 410
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 095
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 610
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 442
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 066
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 495
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 395
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 693
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 228
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 001
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 020
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 256
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 529
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 514
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 212
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 540
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 643
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 033
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 191
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 647
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 026
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 010
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 296
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 238
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 214
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 334
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 058
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 591
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 379
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 017
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 482
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 435
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 700
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 166
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 449
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 261
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 018
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 120
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 098
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 536
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 391
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 024
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 590
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 299
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 224
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 427
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 068
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 537
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 447
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 546
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 359
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 029
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 182
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 240
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 406
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 671
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 146
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 384
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 560
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 617
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 210
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 269
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 217
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 437
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 326
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 258
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 661
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 424
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 588
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 338
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 124
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 144
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 411
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 708
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 640
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 653
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 053
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 178
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 080
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 443
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 099
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 720
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 349
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 541
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 336
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 438
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 117
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 371
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 453
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 272
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 040
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 088
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 170
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 236
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 631
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 723
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 636
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 300
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 367
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 407
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 452
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 659
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 726
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 527
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 278
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 221
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 365
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 594
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 501
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 112
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 169
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 567
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 718
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 607
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 581
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 207
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 356
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 409
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 706
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 320
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 524
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 415
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 229
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 721
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 352
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 604
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 343
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 279
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 692
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 670
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 046
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 595
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 609
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 056
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 463
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 513
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 682
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 057
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 230
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 145
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 710
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 097
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 586
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 484
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 128
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 289
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 450
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 376
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 194
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 129
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 418
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 542
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 051
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 193
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 393
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 503
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 476
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 173
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 012
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 121
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 704
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 150
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 054
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 102
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 198
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 205
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 530
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 623
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 374
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 333
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 754
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 041
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 539
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 183
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 257
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 678
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 108
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 259
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 751
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 368
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 715
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 342
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 619
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 239
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 570
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 521
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 184
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 420
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 119
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 662
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 695
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 295
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 571
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 142
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 127
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 138
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 067
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 318
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 614
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 110
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 187
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 747
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 078
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 429
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 282
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 163
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 600
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 377
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 351
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 634
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 021
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 107
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 122
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 042
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 345
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 082
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 275
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 277
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 713
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 624
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 100
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 440
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 515
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 504
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 156
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 750
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 611
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 134
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 729
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 433
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 712
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 547
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 512
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 742
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 430
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 628
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 431
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 596
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 739
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 089
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 553
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 048
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 535
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 757
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 366
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 416
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 737
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 681
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 360
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 227
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 538
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 667
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 180
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 344
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 441
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 382
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 618
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 597
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 174
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 460
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 603
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 094
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 646
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 014
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 601
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 478
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 502
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 740
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 506
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 733
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 106
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 004
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 615
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 052
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 189
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 139
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 648
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 508
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 358
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 248
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 032
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 470
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 645
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 606
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 243
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 629
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 575
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 396
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 483
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 273
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 520
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 701
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 028
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 164
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 544
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 076
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 003
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 458
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 451
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 340
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 081
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 302
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 274
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 270
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 394
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 576
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 079
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 582
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 143
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 519
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 381
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 456
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 135
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 605
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 329
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 398
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 158
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 251
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 461
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 155
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 673
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 147
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 748
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 031
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 602
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 059
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 073
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 734
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 387
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 071
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 551
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 462
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 473
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 223
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 432
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 649
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 612
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 674
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 660
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 196
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 705
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 446
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 104
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 372
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 168
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 386
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 330
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 497
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 480
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 006
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 489
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 023
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 455
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 152
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 397
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 161
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 335
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 644
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 231
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 263
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 167
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 211
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 331
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 280
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 518
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 153
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 132
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 086
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 654
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 677
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 064
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 363
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 703
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 549
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 686
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 016
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 305
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 557
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 425
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 696
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 573
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 707
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 255
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 474
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 697
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 448
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 683
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 690
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 160
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 077
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 627
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 216
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 250
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 192
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 015
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 479
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 378
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 684
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 639
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 025
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 266
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 084
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 185
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 465
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 242
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 587
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 522
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 561
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 405
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 402
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 069
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 702
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 233
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 019
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 327
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 226
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 215
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 007
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 741
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 022
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 738
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 650
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 685
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 637
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 743
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 317
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 061
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 577
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 307
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 481
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 731
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 676
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 466
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 687
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 245
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 691
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 116
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 658
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 459
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 369
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 350
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 689
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 419
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 675
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 709
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 668
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 500
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 249
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 115
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 531
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 131
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 125
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 543
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 213
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 620
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 746
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 225
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 154
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 552
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 413
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 103
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 050
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 666
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 749
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 346
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 013
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 177
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 593
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 445
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 625
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 315
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 389
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 534
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 362
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 200
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 724
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 464
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 293
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 592
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 301
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 528
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 065
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 285
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 401
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 219
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 290
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 337
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 664
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 165
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 208
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 241
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 283
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 656
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 176
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 171
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 047
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 092
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 321
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 585
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 234
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 580
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 292
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 323
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 735
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 373
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 414
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 002
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 072
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 286
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 417
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 133
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 322
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 555
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 070
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 564
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 254
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 385
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 252
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 151
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 533
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 062
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 294
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 493
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 428
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 354
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 030
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 043
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 093
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 496
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 727
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 403
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 651
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 172
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 422
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 324
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 714
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 383
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 179
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 680
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 101
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 436
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 558
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 049
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 186
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 364
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 469
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 599
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 486
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 162
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 635
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 608
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 312
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 357
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 669
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 652
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 268
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 332
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 598
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 578
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 306
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 148
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 434
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 339
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 262
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 126
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 199
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 517
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 314
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 563
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 265
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 719
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 310
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 511
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 475
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 471
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 444
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 467
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 638
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 308
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 725
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 426
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 399
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 220
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 412
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 568
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 247
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 096
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 159
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 574
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 149
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 123
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 532
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 287
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 439
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 722
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 548
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 699
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 136
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 091
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 565
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 572
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 711
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 298
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 732
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 400
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 516
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 457
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 118
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 246
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 267
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 284
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 583
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 222
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 109
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 319
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 505
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 694
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 717
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 055
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 244
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 157
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 472
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 679
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 137
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 311
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 523
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 325
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 728
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 545
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 083
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 347
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 616
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 348
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 642
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 380
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 114
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 181
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 584
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 375
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 632
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 716
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 045
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 141
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 316
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 037
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 566
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 672
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 630
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 090
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 341
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 206
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 562
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 271
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 559
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 488
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 526
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 353
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 554
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 038
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 408
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 036
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 202
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 633
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 085
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 087
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 034
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 589
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 491
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 730
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 005
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 454
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 498
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 510
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 313
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 756
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 655
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 011
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 253
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 190
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 297
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 140
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 736
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 492
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 209
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 494
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 507
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 745
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 063
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 388
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 276
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 237
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 485
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 060
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 309
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 468
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 355
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 509
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 235
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 232
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 744
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 525
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 569
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 264
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 039
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 579
+company: Giant
+type: iNeed_FunCity
+situation: well
+
+id: 008
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 260
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 113
+company: 911
+type: Normal_Youbike
+situation: well
+
+id: 197
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 370
+company: Giant
+type: Normal_Youbike
+situation: well
+
+id: 698
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 392
+company: MeRiDa
+type: Normal_Youbike
+situation: well
+
+id: 477
+company: MeRiDa
+type: iNeed_FunCity
+situation: well
+
+id: 130
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 663
+company: 911
+type: iNeed_FunCity
+situation: well
+
+id: 665
+company: 911
+type: iNeed_FunCity
+situation: well
+
