@@ -1,0 +1,106 @@
+OSINT -  Igexin advertising network put user privacy at risk
+OSINT - Malicious applications stayed at Google Appstore for months
+OSINT -  ExpensiveWall: A Dangerous ‘Packed’ Malware On Google Play That Will Hit Your Wallet
+OSINT - March 28, 2018: Malware Analysis Report (MAR-10135536.11) – North Korean Trojan: SHARPKNOT
+OSINT - Crypter-as-a-Service Helps jRAT Fly Under The Radar
+OSINT - Mole66 Cryptomix Ransomware Variant Released
+OSINT - The DiskWriter or UselessDisk BootLocker May Be A Wiper
+OSINT - Black Ruby Ransomware Skips Victims in Iran and Adds a Miner for Good Measure
+OSINT - The WhiteRose Ransomware Is Decryptable & Tells A Strange Story
+OSINT - Cisco IOS CVE-2018-0171 attack
+OSINT - New Matrix Ransomware Variants Installed Via Hacked Remote Desktop Services
+OSINT - PUBG Ransomware Decrypts Your Files If You Play PlayerUnknown's Battlegrounds
+OSINT - Forgot About Default Accounts? No Worries, GoScanSSH Didn’t
+OSINT -  IcedID Banking Trojan Teams up with Rovnix for Distribution
+TNT Tracking Email through abused server
+OSINT - Goodbye Cerber? Hello Magniber Ransomware!
+Vurten Ransomware
+Crypren Ransomware
+OSINT - Talos/Cisco  Threat Roundup for April 6 - 13
+OSINT - Minecraft & CS:GO Ransomware Strive For Media Attention
+OSINT - Maktub ransomware: possibly rebranded as Iron
+OSINT - New Orangeworm attack group targets the healthcare sector in the U.S., Europe, and Asia
+OSINT - Sednit update: Analysis of Zebrocy
+OSINT - Analyzing Operation GhostSecret: Attack Seeks to Steal Data Worldwide
+OSINT - On the Economic Significance of Ransomware Campaigns: A Bitcoin Transactions Perspective
+OSINT - Who's who in the zoo. Cyberespionage operation targets android users in the Middle East.
+OSINT - Lojack Becomes a Double-Agent
+OSINT - GandCrab Version 3 Released With Autorun Feature and Desktop Background
+OSINT - “Cyber Conflict” Decoy Document Used In Real Cyber Conflict
+OSINT - APT28 malicious NATO document
+OSINT - Maikspy Spyware Poses as Adult Game, Targets Windows and Android Users
+OSINT - Root cause analysis of the latest Internet Explorer zero day – CVE-2018-8174
+OSINT - Botnet exploiting GPON Vulnerability
+Late Emotet yesterday 5/8/2018
+Emotet - 5/8/2018
+OSINT - Malicious Apps Get Back on the Play Store Just by Changing Their Name
+Panda Malware Broadens - F5 Blog
+OSINT - StalinLocker Deletes Your Files Unless You Enter the Right Code
+OSINT - A tale of two zero-days
+TrickBot pir4 loader config
+Emotet 5-18-2018
+Keylogger info via Twitter Feed
+OSINT - Turla Mosquito: A shift towards more generic tools
+Talos Blog: VPNFilter
+Emotet - 5/21/2018
+Emotet - 5/17/2018
+Hancitor
+Wells Fargo Phish
+Malspam 2018-05-25: "Regarding a job."
+OSINT - Quick analysis of malware created with NSIS
+Talos Blog: Threat Roundup for May 18-25
+US-CERT Alert (TA18-149A) HIDDEN COBRA – Joanap Backdoor Trojan and Brambul Server Message Block Worm
+"TrickBot" and "IcedID" Botnet IOCs
+Malware-Object Alert Trojan
+Grand Soft EK domains
+One IP hosting multiple phishing domains
+#TrickBot banker updates to group_tag ""tt0002" version "1000206"
+Phishing Domains
+Phishing Domains
+OSINT - New Backup Cryptomix Ransomware Variant Actively Infecting Users
+OSINT - Sigrun Ransomware Author Decrypting Russian Victims for Free
+New Phishing Attacks Abuse Excel Internet Query Files
+Sofacy Group’s Parallel Attacks
+OSINT - PLEAD Downloader Used by BlackTech
+OSINT - InvisiMole: surprisingly equipped spyware, undercover since 2013
+OSINT -  Goodfellas, the Brazilian carding scene is after you
+OSINT - Pocket cryptofarms
+OSINT -  Roaming Mantis uses DNS hijacking to infect Android smartphones
+Trend Micro Blog: New KillDisk Variant Hits Latin American Financial Organizations Again
+OSINT - The Week in Ransomware - June 8th 2018 - CryBrazil, CryptConsole, and Magniber
+Malware Analysis Report (AR18-165A) MAR-10135536-12 – North Korean Trojan: TYPEFRAME
+Clipboard Hijacker Targeting Bitcoin & Ethereum Users Infects Over 300,0000 PCs
+OSINT - New Donut Ransomware
+OSINT - New Paradise Ransomware variant
+OSINT - The Week in Ransomware - June 15th 2018 - DBGer, Scarab, and More
+bank phishing domains
+OSINT - DBGer Ransomware Uses EternalBlue and Mimikatz to Spread Across Networks
+OSINT - Malware That Hit Pyeongchang Olympics Deployed in New Attacks
+OSINT - GZipDe: An Encrypted Downloader Serving Metasploit
+OSINT - Tick Group Weaponized Secure USB Drives to Target Air-Gapped Critical Systems
+Registrant Tracking for "earthalgerrity@armyspy.com"
+OSINT - RANCOR: Targeted Attacks in South East Asia Using PLAINTEE and DDKONG Malware Families
+Blog Post: EMOTET INFECTION WITH ICEDID
+Malicious IP communicating with Gafgyt
+Malicious Emails Outlook Themed
+Malware with legit company names in metadata
+Clipboard CryptoCoin Hijacker
+OSINT -  Down but Not Out: A Look Into Recent Exploit Kit Activities
+Talos Blog - Smoking Guns - Smoke Loader learned new tricks
+OSINT - APT Attack In the Middle East: The Big Bang
+Trend Micro Blog: Malicious Macro Hijacks Desktop Shortcuts to Deliver Backdoor
+OVH Phishing
+Email Credential Phish, Dropbox Theme
+Emotet links
+Hancitor Intel
+OSINT - New Version of the Kronos Banking Trojan Discovered
+OSINT - Kronos Banking Trojan Used to Deliver New Point-of-Sale Malware
+OSINT - Leafminer: New Espionage Campaigns Targeting Middle Eastern Regions
+OSINT - Kronos Reborn
+Massive Malvertising Campaign Discovered Attempting 40,000 Infections per Week
+OSINT - Malicious document targets Vietnamese officials
+Talos Blog: Multiple Cobalt Personality Disorder
+OSINT - Attacks on industrial enterprises using RMS and TeamViewer
+Phishing Domains, MALWAREMESSIAGH
+Ursnif, MALWAREMESSIAGH
+OSINT - Off-the-shelf RATs Targeting Pakistan
